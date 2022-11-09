@@ -1,0 +1,150 @@
+# Translations template for PROJECT.
+# Copyright (C) 2021 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2021-10-20 01:00-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Globalization Pipeline\n"
+
+msgid "String variables are not allowed in this procedure"
+msgstr "在此过程中不允许使用字符串变量"
+
+msgid "The two sets of variables have variables in common: %s"
+msgstr "这两组变量中存在下列公共变量：%s"
+
+msgid ""
+"A root name for output variables is required if computing scores or saving "
+msgstr "如果要计算得分或者保存语法，那么需要输出变量的根名称"
+
+msgid ""
+"A name for the centered dataset is required if scoring or creating scoring "
+msgstr "如果要计算得分或者创建评分语法，那么需要所集中的数据集的名称"
+
+msgid "A scoring variable name appears in the list of input variables"
+msgstr "评分变量名称将显示在输入变量的列表中"
+
+msgid "* Calculate canonical scores based on canonical correlations.\n"
+msgstr "* 根据典型相关性计算典型得分。\n"
+
+msgid ""
+"The requested canonical correlations could not be computed due to singularity "
+"or missing data."
+msgstr "由于奇异性或者缺失数据，无法计算所请求的典型相关性。"
+
+msgid "Centered Dataset"
+msgstr "集中的数据集"
+
+msgid "Set 1 Variables"
+msgstr "集合 1 变量"
+
+msgid "Set 2 Variables"
+msgstr "集合 2 变量"
+
+msgid "Correlations Used for Scoring"
+msgstr "用于评分的相关性"
+
+msgid "Scoring Syntax"
+msgstr "评分语法"
+
+msgid "None"
+msgstr "无"
+
+msgid "Canonical Correlations Settings"
+msgstr "典型相关性设置"
+
+msgid "Values"
+msgstr "值"
+
+msgid "Canonical Correlations"
+msgstr "典型相关性"
+
+msgid ""
+"H0 for Wilks test is that the correlations in the current and following rows "
+"are zero"
+msgstr "H0 for Wilks 检验是指当前行和后续行中的相关性均为零"
+
+msgid "Correlation"
+msgstr "相关性"
+
+msgid "Eigenvalue"
+msgstr "特征值"
+
+msgid "Denom D.F."
+msgstr "分母自由度"
+
+msgid "F"
+msgstr "F"
+
+msgid "Num D.F"
+msgstr "分子自由度"
+
+msgid "Wilks Statistic"
+msgstr "威尔克统计"
+
+msgid "Sig."
+msgstr "显著性"
+
+msgid "Set 1 Standardized Canonical Correlation Coefficients"
+msgstr "集合 1 标准化典型相关系数"
+
+msgid "Variable"
+msgstr "变量"
+
+msgid "Set 2 Standardized Canonical Correlation Coefficients"
+msgstr "集合 2 标准化典型相关系数"
+
+msgid "Set 1 Unstandardized Canonical Correlation Coefficients"
+msgstr "集合 1 非标准化典型相关系数"
+
+msgid "Set 2 Unstandardized Canonical Correlation Coefficients"
+msgstr "集合 2 非标准化典型相关系数"
+
+msgid "Set 1 Canonical Loadings"
+msgstr "集合 1 典型载荷"
+
+msgid "Set 2 Canonical Loadings"
+msgstr "集合 2 典型载荷"
+
+msgid "Set 1 Cross Loadings"
+msgstr "集合 1 交叉载荷"
+
+msgid "Set 2 Cross Loadings"
+msgstr "集合 2 交叉载荷"
+
+msgid "Proportion of Variance Explained"
+msgstr "已解释的方差比例"
+
+msgid "Canonical Variable"
+msgstr "典型变量"
+
+msgid "Set 1 by Self"
+msgstr "集合 1 * 自身"
+
+msgid "Set 1 by Set 2"
+msgstr "集合 1 * 集合 2"
+
+msgid "Set 2 by Self"
+msgstr "集合 2 * 自身"
+
+msgid "Set 2 by Set 1"
+msgstr "集合 2 * 集合 1"
+
+msgid "The specified root name is too long: %s"
+msgstr "指定的根名称过长：%s"
+
+msgid "---"
+msgstr "---"
+
+msgid "Create dummy variables"
+msgstr "创建虚变量"

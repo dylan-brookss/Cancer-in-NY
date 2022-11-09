@@ -1,0 +1,158 @@
+# Translations template for PROJECT.
+# Copyright (C) 2021 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2021-10-20 01:00-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Globalization Pipeline\n"
+
+msgid "String variables are not allowed in this procedure"
+msgstr "В этой процедуре не допускается использование текстовых переменных"
+
+msgid "The two sets of variables have variables in common: %s"
+msgstr "У двух наборов переменных есть общие переменные: %s"
+
+msgid ""
+"A root name for output variables is required if computing scores or saving "
+msgstr ""
+"При вычислении оценок или при сохранении синтаксиса требуется корневое имя для"
+" выходных переменных"
+
+msgid ""
+"A name for the centered dataset is required if scoring or creating scoring "
+msgstr ""
+"При скоринге или при создании синтаксиса скоринга требуется центрированный "
+"набор данных"
+
+msgid "A scoring variable name appears in the list of input variables"
+msgstr "В списке выходных переменных присутствует имя переменной скоринга"
+
+msgid "* Calculate canonical scores based on canonical correlations.\n"
+msgstr "* Вычислить канонические оценки на основе канонических корреляций.\n"
+
+msgid ""
+"The requested canonical correlations could not be computed due to singularity "
+"or missing data."
+msgstr ""
+"Из-за сингулярности или отсутствия данных невозможно вычислить затребованные "
+"канонические корреляции."
+
+msgid "Centered Dataset"
+msgstr "Центрированный набор данных"
+
+msgid "Set 1 Variables"
+msgstr "Переменные набора 1"
+
+msgid "Set 2 Variables"
+msgstr "Переменные набора 2"
+
+msgid "Correlations Used for Scoring"
+msgstr "Корреляции, используемые для скоринга"
+
+msgid "Scoring Syntax"
+msgstr "Синтаксис скоринга"
+
+msgid "None"
+msgstr "Нет"
+
+msgid "Canonical Correlations Settings"
+msgstr "Параметры канонических корреляций"
+
+msgid "Values"
+msgstr "Значения"
+
+msgid "Canonical Correlations"
+msgstr "Канонические корреляции"
+
+msgid ""
+"H0 for Wilks test is that the correlations in the current and following rows "
+"are zero"
+msgstr ""
+"H0 для критерия Уилкса означает, что корреляции в текущей и последующих "
+"строках равны нулю"
+
+msgid "Correlation"
+msgstr "Корреляция"
+
+msgid "Eigenvalue"
+msgstr "Собственное значение"
+
+msgid "Denom D.F."
+msgstr "Знаменатель ст.св."
+
+msgid "F"
+msgstr "F"
+
+msgid "Num D.F"
+msgstr "Числитель ст.св."
+
+msgid "Wilks Statistic"
+msgstr "Статистика Уилкса"
+
+msgid "Sig."
+msgstr "Значимость"
+
+msgid "Set 1 Standardized Canonical Correlation Coefficients"
+msgstr "Стандартизованные коэффициенты канонических корреляций для набора 1"
+
+msgid "Variable"
+msgstr "Переменная"
+
+msgid "Set 2 Standardized Canonical Correlation Coefficients"
+msgstr "Стандартизованные коэффициенты канонических корреляций для набора 2"
+
+msgid "Set 1 Unstandardized Canonical Correlation Coefficients"
+msgstr "Нестандартизованные коэффициенты канонических корреляций для набора 1"
+
+msgid "Set 2 Unstandardized Canonical Correlation Coefficients"
+msgstr "Нестандартизованные коэффициенты канонических корреляций для набора 2"
+
+msgid "Set 1 Canonical Loadings"
+msgstr "Канонические нагрузки для набора 1"
+
+msgid "Set 2 Canonical Loadings"
+msgstr "Канонические нагрузки для набора 2"
+
+msgid "Set 1 Cross Loadings"
+msgstr "Перекрестные нагрузки для набора 1"
+
+msgid "Set 2 Cross Loadings"
+msgstr "Перекрестные нагрузки для набора 2"
+
+msgid "Proportion of Variance Explained"
+msgstr "Объясненная доля дисперсии"
+
+msgid "Canonical Variable"
+msgstr "Каноническая переменная"
+
+msgid "Set 1 by Self"
+msgstr "Набор 1 по самому набору"
+
+msgid "Set 1 by Set 2"
+msgstr "Набор 1 по набору 2"
+
+msgid "Set 2 by Self"
+msgstr "Набор 2 по самому набору"
+
+msgid "Set 2 by Set 1"
+msgstr "Набор 2 по набору 1"
+
+msgid "The specified root name is too long: %s"
+msgstr "Заданное корневое имя слишком длинное: %s"
+
+msgid "---"
+msgstr "---"
+
+msgid "Create dummy variables"
+msgstr "Создать фиктивные переменные"

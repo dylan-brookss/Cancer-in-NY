@@ -1,0 +1,150 @@
+# Translations template for PROJECT.
+# Copyright (C) 2021 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2021-10-20 01:00-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Globalization Pipeline\n"
+
+msgid "String variables are not allowed in this procedure"
+msgstr "此程序中不允許使用字串變數"
+
+msgid "The two sets of variables have variables in common: %s"
+msgstr "兩組變數具有共同的變數：%s"
+
+msgid ""
+"A root name for output variables is required if computing scores or saving "
+msgstr "如果計算評分或儲存語法，需要輸出變數的根名稱"
+
+msgid ""
+"A name for the centered dataset is required if scoring or creating scoring "
+msgstr "如果評分或建立評分語法，需要置中資料集的名稱"
+
+msgid "A scoring variable name appears in the list of input variables"
+msgstr "評分變數名稱出現在輸入變數清單中"
+
+msgid "* Calculate canonical scores based on canonical correlations.\n"
+msgstr "* 根據正準相關性計算正準評分。\n"
+
+msgid ""
+"The requested canonical correlations could not be computed due to singularity "
+"or missing data."
+msgstr "由於特異性或遺漏資料，無法計算所要求的正準相關性。"
+
+msgid "Centered Dataset"
+msgstr "置中的資料集"
+
+msgid "Set 1 Variables"
+msgstr "第 1 組變數"
+
+msgid "Set 2 Variables"
+msgstr "第 2 組變數"
+
+msgid "Correlations Used for Scoring"
+msgstr "用於評分的相關性"
+
+msgid "Scoring Syntax"
+msgstr "評分語法"
+
+msgid "None"
+msgstr "無"
+
+msgid "Canonical Correlations Settings"
+msgstr "正準相關性設定"
+
+msgid "Values"
+msgstr "值"
+
+msgid "Canonical Correlations"
+msgstr "正準相關性"
+
+msgid ""
+"H0 for Wilks test is that the correlations in the current and following rows "
+"are zero"
+msgstr "H0 for Wilks 檢定是現行及隨後列中的相關性為零"
+
+msgid "Correlation"
+msgstr "相關性"
+
+msgid "Eigenvalue"
+msgstr "固有值"
+
+msgid "Denom D.F."
+msgstr "分母 D.F."
+
+msgid "F"
+msgstr "F"
+
+msgid "Num D.F"
+msgstr "數字 D.F"
+
+msgid "Wilks Statistic"
+msgstr "Wilks 統計資料"
+
+msgid "Sig."
+msgstr "顯著性"
+
+msgid "Set 1 Standardized Canonical Correlation Coefficients"
+msgstr "第 1 組標準化正準相關係數"
+
+msgid "Variable"
+msgstr "變數"
+
+msgid "Set 2 Standardized Canonical Correlation Coefficients"
+msgstr "第 2 組標準化正準相關係數"
+
+msgid "Set 1 Unstandardized Canonical Correlation Coefficients"
+msgstr "第 1 組非標準化正準相關係數"
+
+msgid "Set 2 Unstandardized Canonical Correlation Coefficients"
+msgstr "第 2 組非標準化正準相關係數"
+
+msgid "Set 1 Canonical Loadings"
+msgstr "第 1 組正準載入"
+
+msgid "Set 2 Canonical Loadings"
+msgstr "第 2 組正準載入"
+
+msgid "Set 1 Cross Loadings"
+msgstr "第 1 組交叉載入"
+
+msgid "Set 2 Cross Loadings"
+msgstr "第 2 組交叉載入"
+
+msgid "Proportion of Variance Explained"
+msgstr "已解釋變異的比例"
+
+msgid "Canonical Variable"
+msgstr "正準變數"
+
+msgid "Set 1 by Self"
+msgstr "第 1 組乘自己"
+
+msgid "Set 1 by Set 2"
+msgstr "第 1 組乘第 2 組"
+
+msgid "Set 2 by Self"
+msgstr "第 2 組乘自己"
+
+msgid "Set 2 by Set 1"
+msgstr "第 2 組乘第 1 組"
+
+msgid "The specified root name is too long: %s"
+msgstr "指定的根名稱太長：%s"
+
+msgid "---"
+msgstr "---"
+
+msgid "Create dummy variables"
+msgstr "建立虛擬變數"

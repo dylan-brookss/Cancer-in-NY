@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<!-- saved from url=(0014)about:internet -->
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="x-ua-compatible" content="IE=9" >
+
+<title>STATS CANCORR Extension Command</title>
+
+<link rel="stylesheet" type="text/css" href="extsyntax.css" />
+
+
+
+
+
+</head>
+
+<body>
+<h1>STATS CANCORR Extension Command</h1>
+
+<p>Compute canonical correlations between two sets
+of variables and optionally create a dataset of scores</p>
+<div class="syntax">
+<p>STATS CANCORR SET1=<em>variables</em><sup>&#42;</sup> SET2=<em>variables</em><sup>&#42;</sup></p>
+
+<p>/OPTIONS<br/>
+SCORINGSYNTAX = &ldquo;<em>file</em>&rdquo;<br/>
+ROOTNAME = <em>variable name</em><br/>
+COMPUTECVARS = YES or NO<sup>&#42;&#42;</sup><br/>
+CENTEREDDS = <em>dataset</em><br/>
+NDIMS = <em>integer</em></p>
+
+<p>/PRINT<br/>
+PAIRWISECORR = YES<sup>&#42;&#42;</sup> or NO<br/>
+LOADINGS = YES<sup>&#42;&#42;</sup> or NO<br/>
+VARPROP = YES<sup>&#42;<sup>&#42;</sup></sup> or NO<br/>
+COEFFICIENTS = YES<sup>&#42;&#42;</sup> or NO</p>
+
+<p>/HELP</p>
+
+<p><sup>&#42;</sup> Required<br/>
+<sup>&#42;&#42;</sup> Default</p>
+</div>
+<p>STATS CANCORR /HELP displays this help and does nothing else.</p>
+
+
+
+<pre class="example"><code>STATS CANCOR SET1=y1 y2 SET2=x1 x2 x3
+/OPTIONS SCORINGSYNTAX = &quot;C:/syntax/scoring.sps&quot;
+ROOTNAME = score COMPUTECVARS = YES CENTEREDDS = centered.
+</code></pre>
+
+<p><strong>SET1</strong> and <strong>SET2</strong> specify the two sets of variables whose
+canonical correlations should be computed.<br/>
+Listwise deletion is used for missing values.</p>
+
+<h2>OPTIONS</h2>
+
+<p>If <strong>SCORINGSYNTAX</strong> is specified, a syntax file creating code to
+calcuate scores is written.  It can be used with another dataset
+if the names match.  The syntax begins with mean centering the
+input data. ROOTNAME is required if this keyword is used.</p>
+
+<p><strong>ROOTNAME</strong> specifies a prefix for the score variables to be created.
+The full names are <code>ROOTNAME_set#_corr#</code> where <code>set#</code> is <code>set1</code> or <code>set2</code> and
+<code>corr#</code> goes from 1 to the number of canonical correlations.  Keep
+the root name short enough that the complete name is no longer
+than 64 bytes.</p>
+
+<p><strong>COMPUTECVARS</strong> specifies whether or not to compute the scores.
+If YES, the input variables are mean centered and written to a
+new dataset which also contains the scores.  *<em>CENTEREDDS</em> and
+ROOTNAME are required if this is used.</p>
+
+<p><strong>CENTEREDDS</strong> is the name for the centered dataset.  It is
+ignored if COMPUTECVARS is NO.</p>
+
+<p>By default, all dimensions of the canonical correlations are
+used for scoring.  Specify <strong>NDIMS</strong>=n to use a smaller number.</p>
+
+<h2>PRINT</h2>
+
+<p>The PRINT subcommand controls what optional output is
+displayed.</p>
+
+<p>&copy; Copyright IBM Corp. 1989, 2014</p>
+
+</body>
+
+</html>
+

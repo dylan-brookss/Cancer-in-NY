@@ -1,0 +1,160 @@
+# Translations template for PROJECT.
+# Copyright (C) 2021 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2021-10-20 00:39-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Globalization Pipeline\n"
+
+msgid "String variables are not allowed in this procedure"
+msgstr "No se admiten variables de cadena en este procedimiento"
+
+msgid "The two sets of variables have variables in common: %s"
+msgstr "Los dos conjuntos de variables tienen variables en común: %s"
+
+msgid ""
+"A root name for output variables is required if computing scores or saving "
+msgstr ""
+"Se requiere un nombre raíz para las variables de resultado si se van a "
+"calcular puntuaciones o a guardar sintaxis"
+
+msgid ""
+"A name for the centered dataset is required if scoring or creating scoring "
+msgstr ""
+"Se requiere un nombre para el conjunto de datos centrado si se va a puntuar o "
+"a crear sintaxis de puntuación"
+
+msgid "A scoring variable name appears in the list of input variables"
+msgstr ""
+"Aparece un nombre de variable de puntuación en la lista de variables de "
+
+msgid "* Calculate canonical scores based on canonical correlations.\n"
+msgstr ""
+"* Calcular puntuaciones canónicas basadas en correlaciones canónicas.\n"
+
+msgid ""
+"The requested canonical correlations could not be computed due to singularity "
+"or missing data."
+msgstr ""
+"No se han podido calcular las correlaciones canónicas solicitadas debido a la "
+"singularidad de los datos perdidos."
+
+msgid "Centered Dataset"
+msgstr "Conjunto de datos centrado"
+
+msgid "Set 1 Variables"
+msgstr "Variables del conjunto 1"
+
+msgid "Set 2 Variables"
+msgstr "Variables del conjunto 2"
+
+msgid "Correlations Used for Scoring"
+msgstr "Correlaciones utilizadas para la puntuación"
+
+msgid "Scoring Syntax"
+msgstr "Sintaxis de puntuación"
+
+msgid "None"
+msgstr "Ninguna"
+
+msgid "Canonical Correlations Settings"
+msgstr "Configuración de las correlaciones canónicas"
+
+msgid "Values"
+msgstr "Valores"
+
+msgid "Canonical Correlations"
+msgstr "Correlaciones canónicas"
+
+msgid ""
+"H0 for Wilks test is that the correlations in the current and following rows "
+"are zero"
+msgstr ""
+"H0 de prueba de Wilks significa que las correlaciones de la fila actual y las "
+"siguientes son cero"
+
+msgid "Correlation"
+msgstr "Correlación"
+
+msgid "Eigenvalue"
+msgstr "Autovalor"
+
+msgid "Denom D.F."
+msgstr "Denominador D.F."
+
+msgid "F"
+msgstr "F"
+
+msgid "Num D.F"
+msgstr "Número D.F"
+
+msgid "Wilks Statistic"
+msgstr "Estadístico de Wilks"
+
+msgid "Sig."
+msgstr "Sig."
+
+msgid "Set 1 Standardized Canonical Correlation Coefficients"
+msgstr "Coeficiente de correlación canónica estandarizada del conjunto 1"
+
+msgid "Variable"
+msgstr "Variable"
+
+msgid "Set 2 Standardized Canonical Correlation Coefficients"
+msgstr "Coeficiente de correlación canónica estandarizada del conjunto 2"
+
+msgid "Set 1 Unstandardized Canonical Correlation Coefficients"
+msgstr "Coeficiente de correlación canónica no estandarizada del conjunto 1"
+
+msgid "Set 2 Unstandardized Canonical Correlation Coefficients"
+msgstr "Coeficiente de correlación canónica no estandarizada del conjunto 2"
+
+msgid "Set 1 Canonical Loadings"
+msgstr "Cargas canónicas del conjunto 1"
+
+msgid "Set 2 Canonical Loadings"
+msgstr "Cargas canónicas del conjunto 2"
+
+msgid "Set 1 Cross Loadings"
+msgstr "Cargas cruzadas del conjunto 1"
+
+msgid "Set 2 Cross Loadings"
+msgstr "Cargas cruzadas del conjunto 2"
+
+msgid "Proportion of Variance Explained"
+msgstr "Proporción de la varianza explicada"
+
+msgid "Canonical Variable"
+msgstr "Variable canónica"
+
+msgid "Set 1 by Self"
+msgstr "Conjunto 1 por sí mismo"
+
+msgid "Set 1 by Set 2"
+msgstr "Conjunto 1 por conjunto 2"
+
+msgid "Set 2 by Self"
+msgstr "Conjunto 2 por sí mismo"
+
+msgid "Set 2 by Set 1"
+msgstr "Conjunto 2 por conjunto 1"
+
+msgid "The specified root name is too long: %s"
+msgstr "El raíz especificado es demasiado largo: %s"
+
+msgid "---"
+msgstr "---"
+
+msgid "Create dummy variables"
+msgstr "Crear variables auxiliares"

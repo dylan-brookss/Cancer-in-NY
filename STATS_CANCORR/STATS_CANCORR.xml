@@ -1,0 +1,33 @@
+<!-- ***************************************************************** -->
+<!--                                                                   -->
+<!-- Licensed Materials - Property of IBM                              -->
+<!--                                                                   -->
+<!-- IBM SPSS Products: Statistics Common                              -->
+<!--                                                                   -->
+<!-- (C) Copyright IBM Corp. 1989, 2020                                -->
+<!--                                                                   -->
+<!-- US Government Users Restricted Rights - Use, duplication or       -->
+<!-- disclosure restricted by GSA ADP Schedule Contract with IBM       -->
+<!-- Corp.                                                             -->
+<!--                                                                   -->
+<!-- ***************************************************************** -->
+<Command xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="extension-1.0.xsd" Name="STATS CANCORR" Language="Python" LanguageVersion="3">
+	<Subcommand Name="" IsArbitrary="False" Occurrence="Optional">
+		<Parameter Name="SET1" ParameterType="VariableNameList"/>
+		<Parameter Name="SET2" ParameterType="VariableNameList"/>
+	</Subcommand>
+	<Subcommand Name="OPTIONS">
+		<Parameter Name="SCORINGSYNTAX" ParameterType="OutputFile"/>
+		<Parameter Name="ROOTNAME" ParameterType="QuotedString"/>
+		<Parameter Name="COMPUTECVARS" ParameterType="Keyword"/>
+		<Parameter Name="CENTEREDDS" ParameterType="DatasetName"/>
+		<Parameter Name="NDIMS" ParameterType="Integer"/>
+	</Subcommand>
+	<Subcommand Name="PRINT">
+		<Parameter Name="PAIRWISECORR" ParameterType="Keyword"/>
+		<Parameter Name="LOADINGS" ParameterType="Keyword"/>
+		<Parameter Name="VARPROP" ParameterType="Keyword"/>
+		<Parameter Name="COEFFICIENTS" ParameterType="Keyword"/>
+	</Subcommand>
+	<Subcommand Name="HELP" Occurrence="Optional"/>
+</Command>

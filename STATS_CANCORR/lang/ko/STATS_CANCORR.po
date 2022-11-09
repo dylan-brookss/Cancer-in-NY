@@ -1,0 +1,150 @@
+# Translations template for PROJECT.
+# Copyright (C) 2021 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2021-10-20 00:39-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Globalization Pipeline\n"
+
+msgid "String variables are not allowed in this procedure"
+msgstr "이 프로시저에서는 문자변수가 허용되지 않습니다."
+
+msgid "The two sets of variables have variables in common: %s"
+msgstr "두 개의 변수군에는 일반적으로 변수가 포함됩니다. %s"
+
+msgid ""
+"A root name for output variables is required if computing scores or saving "
+msgstr "점수를 계산하거나 명령문을 저장할 경우 출력변수에 대한 루트 이름이 필요합니다."
+
+msgid ""
+"A name for the centered dataset is required if scoring or creating scoring "
+msgstr "점수화하거나 점수화 명령문을 작성할 경우 중앙화된 데이터 세트의 이름이 필요합니다."
+
+msgid "A scoring variable name appears in the list of input variables"
+msgstr "점수화 변수 이름이 입력 변수 목록에 나타납니다."
+
+msgid "* Calculate canonical scores based on canonical correlations.\n"
+msgstr "* 정준 상관을 기준으로 정준 점수를 계산하십시오.\n"
+
+msgid ""
+"The requested canonical correlations could not be computed due to singularity "
+"or missing data."
+msgstr "비정칙 또는 결측 데이터로 인해 요청된 정준 상관을 계산할 수 없습니다."
+
+msgid "Centered Dataset"
+msgstr "중앙화된 데이터 세트"
+
+msgid "Set 1 Variables"
+msgstr "변수군 1 변수"
+
+msgid "Set 2 Variables"
+msgstr "변수군 2 변수"
+
+msgid "Correlations Used for Scoring"
+msgstr "점수화에 사용된 상관계수"
+
+msgid "Scoring Syntax"
+msgstr "점수화 명령문"
+
+msgid "None"
+msgstr "지정않음"
+
+msgid "Canonical Correlations Settings"
+msgstr "정준 상관 설정"
+
+msgid "Values"
+msgstr "값"
+
+msgid "Canonical Correlations"
+msgstr "정준 상관"
+
+msgid ""
+"H0 for Wilks test is that the correlations in the current and following rows "
+"are zero"
+msgstr "Wilks 검정의 H0은 현재 및 다음 행의 상관계수가 0인 검정입니다."
+
+msgid "Correlation"
+msgstr "상관관계"
+
+msgid "Eigenvalue"
+msgstr "고유값"
+
+msgid "Denom D.F."
+msgstr "분자 자유도"
+
+msgid "F"
+msgstr "F"
+
+msgid "Num D.F"
+msgstr "분자 자유도"
+
+msgid "Wilks Statistic"
+msgstr "Wilks 통계"
+
+msgid "Sig."
+msgstr "TPL 유의확률"
+
+msgid "Set 1 Standardized Canonical Correlation Coefficients"
+msgstr "변수군 1 표준화 정준 상관 계수"
+
+msgid "Variable"
+msgstr "변수2"
+
+msgid "Set 2 Standardized Canonical Correlation Coefficients"
+msgstr "변수군 2 표준화 정준 상관 계수"
+
+msgid "Set 1 Unstandardized Canonical Correlation Coefficients"
+msgstr "변수군 1 비표준화 정준 상관 계수"
+
+msgid "Set 2 Unstandardized Canonical Correlation Coefficients"
+msgstr "변수군 2 비표준화 정준 상관 계수"
+
+msgid "Set 1 Canonical Loadings"
+msgstr "변수군 1 정준 적재량"
+
+msgid "Set 2 Canonical Loadings"
+msgstr "변수군 2 정준 적재량"
+
+msgid "Set 1 Cross Loadings"
+msgstr "변수군 1 십자 적재량"
+
+msgid "Set 2 Cross Loadings"
+msgstr "변수군 2 십자 적재량"
+
+msgid "Proportion of Variance Explained"
+msgstr "설명된 분산의 비율"
+
+msgid "Canonical Variable"
+msgstr "정준 변수"
+
+msgid "Set 1 by Self"
+msgstr "변수군 1(자체)"
+
+msgid "Set 1 by Set 2"
+msgstr "변수군 1(변수군 2 기준)"
+
+msgid "Set 2 by Self"
+msgstr "변수군 2(자체)"
+
+msgid "Set 2 by Set 1"
+msgstr "변수군 2(변수군 1 기준)"
+
+msgid "The specified root name is too long: %s"
+msgstr "지정된 루트 이름이 너무 깁니다. %s"
+
+msgid "---"
+msgstr "---"
+
+msgid "Create dummy variables"
+msgstr "더미변수 작성"

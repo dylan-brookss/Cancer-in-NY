@@ -1,0 +1,150 @@
+# Translations template for PROJECT.
+# Copyright (C) 2021 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2021-10-20 00:39-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Globalization Pipeline\n"
+
+msgid "String variables are not allowed in this procedure"
+msgstr "文字型変数はこの手順では許可されません。"
+
+msgid "The two sets of variables have variables in common: %s"
+msgstr "2 つの変数グループに共通の変数があります: %s"
+
+msgid ""
+"A root name for output variables is required if computing scores or saving "
+msgstr "スコアの計算またはシンタックスの保存を行う場合は、出力変数のルート名が必要です"
+
+msgid ""
+"A name for the centered dataset is required if scoring or creating scoring "
+msgstr "スコアリングまたはスコアリング シンタックスの作成を行う場合は、中心化したデータセットの名前が必要です"
+
+msgid "A scoring variable name appears in the list of input variables"
+msgstr "入力変数のリストにスコアリング変数名が入っています"
+
+msgid "* Calculate canonical scores based on canonical correlations.\n"
+msgstr "* 正準相関に基づいて正準スコアを計算します。\n"
+
+msgid ""
+"The requested canonical correlations could not be computed due to singularity "
+"or missing data."
+msgstr "特異性またはデータの欠落により、要求された正準相関を計算できませんでした。"
+
+msgid "Centered Dataset"
+msgstr "中心化されたデータセット"
+
+msgid "Set 1 Variables"
+msgstr "グループ 1 の変数"
+
+msgid "Set 2 Variables"
+msgstr "グループ 2 の変数"
+
+msgid "Correlations Used for Scoring"
+msgstr "スコアリングに使用する相関"
+
+msgid "Scoring Syntax"
+msgstr "スコアリング シンタックス"
+
+msgid "None"
+msgstr "なし (コレスポンデンス分析)"
+
+msgid "Canonical Correlations Settings"
+msgstr "正準相関の設定"
+
+msgid "Values"
+msgstr "値"
+
+msgid "Canonical Correlations"
+msgstr "正準相関"
+
+msgid ""
+"H0 for Wilks test is that the correlations in the current and following rows "
+"are zero"
+msgstr "Wilks 検定での H0 は、現在行と後続行の相関がゼロであることを示します"
+
+msgid "Correlation"
+msgstr "相関係数"
+
+msgid "Eigenvalue"
+msgstr "固有値"
+
+msgid "Denom D.F."
+msgstr "分母の自由度"
+
+msgid "F"
+msgstr "F 値"
+
+msgid "Num D.F"
+msgstr "分子の自由度"
+
+msgid "Wilks Statistic"
+msgstr "Wilks 統計"
+
+msgid "Sig."
+msgstr "有意"
+
+msgid "Set 1 Standardized Canonical Correlation Coefficients"
+msgstr "グループ 1 の標準化された正準相関係数"
+
+msgid "Variable"
+msgstr "変数"
+
+msgid "Set 2 Standardized Canonical Correlation Coefficients"
+msgstr "グループ 2 の標準化された正準相関係数"
+
+msgid "Set 1 Unstandardized Canonical Correlation Coefficients"
+msgstr "グループ 1 の標準化されていない正準相関係数"
+
+msgid "Set 2 Unstandardized Canonical Correlation Coefficients"
+msgstr "グループ 2 の標準化されていない正準相関係数"
+
+msgid "Set 1 Canonical Loadings"
+msgstr "グループ 1 の正準負荷量"
+
+msgid "Set 2 Canonical Loadings"
+msgstr "グループ 2 の正準負荷量"
+
+msgid "Set 1 Cross Loadings"
+msgstr "グループ 1 の交差負荷量"
+
+msgid "Set 2 Cross Loadings"
+msgstr "グループ 2 の交差負荷量"
+
+msgid "Proportion of Variance Explained"
+msgstr "説明された分散の比率"
+
+msgid "Canonical Variable"
+msgstr "正準変数"
+
+msgid "Set 1 by Self"
+msgstr "グループ 1 の自己寄与"
+
+msgid "Set 1 by Set 2"
+msgstr "グループ 1 へのグループ 2 の寄与"
+
+msgid "Set 2 by Self"
+msgstr "グループ 2 の自己寄与"
+
+msgid "Set 2 by Set 1"
+msgstr "グループ 2 へのグループ 1 の寄与"
+
+msgid "The specified root name is too long: %s"
+msgstr "指定したルート名は長すぎます: %s"
+
+msgid "---"
+msgstr "---"
+
+msgid "Create dummy variables"
+msgstr "ダミー変数の作成"

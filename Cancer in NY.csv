@@ -1,0 +1,34 @@
+Title:,Cancer Mortality from the U.S. Cancer Statistics Database,,,,,,,,,,,,,,,,,,,,,
+SubTitle:,State: New York - Indicator: Deaths,,,,,,,,,,,,,,,,,,,,,
+Time:,1999 - 2018,,,,,,,,,,,,,,,,,,,,,
+Unit of Measure:,#,#,#,#,#,#,#,#,#,#,#,#,#,#,#,#,#,#,#,#,#,#
+Citation:,"National Program of Cancer Registries (NPCR), The National Cancer Institute, and National Center for Health Statistics (NCHS), Centers for Disease Control and Prevention  (2022-01-20). U.S. Cancer Statistics: Cancer Mortality | New York | Brain and Other Nervous System | Breast | Cervix Uteri | Colon and Rectum | Corpus Uteri | Esophagus | Gallbladder | Kidney and Renal Pelvis | Larynx | Leukemias | Liver | Lung and Bronchus | Melanoma of the Skin | Myeloma | Non-Hodgkin Lymphoma | Oral Cavity and Pharynx | Ovary | Pancreas | Prostate | Stomach | Thyroid | Urinary Bladder, invasive and in situ | Deaths, 1999 - 2018. Data Planet? Statistical Datasets: A SAGE Publishing Resource. (Dataset). Dataset-ID:  005-065-002 doi:https://doi.org/10.6068/DP1845CA2EFC120",,,,,,,,,,,,,,,,,,,,,
+ColumnCount:,23,,,,,,,,,,,,,,,,,,,,,
+RowCount:,20,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+Time,"New York, Brain and Other Nervous System, Deaths","New York, Breast, Deaths","New York, Cervix Uteri, Deaths","New York, Colon and Rectum, Deaths","New York, Corpus Uteri, Deaths","New York, Esophagus, Deaths","New York, Gallbladder, Deaths","New York, Kidney and Renal Pelvis, Deaths","New York, Larynx, Deaths","New York, Leukemias, Deaths","New York, Liver, Deaths","New York, Lung and Bronchus, Deaths","New York, Melanoma of the Skin, Deaths","New York, Myeloma, Deaths","New York, Non-Hodgkin Lymphoma, Deaths","New York, Oral Cavity and Pharynx, Deaths","New York, Ovary, Deaths","New York, Pancreas, Deaths","New York, Prostate, Deaths","New York, Stomach, Deaths","New York, Thyroid, Deaths","New York, Urinary Bladder, invasive and in situ, Deaths"
+1999,761,3168,338,4296,252,825,183,655,295,1435,731,9550,410,685,1491,498,988,2212,2056,1102,94,921
+2000,712,3131,302,4257,229,879,183,686,301,1386,742,9564,450,690,1533,457,1026,2130,2094,1070,99,900
+2001,709,3168,286,4102,240,857,175,721,247,1408,759,9517,475,654,1444,511,1007,2207,2079,1033,98,942
+2002,761,3022,294,4090,253,830,160,685,297,1375,785,9615,430,693,1405,450,1014,2188,2030,995,94,907
+2003,707,3041,293,3955,265,895,175,704,270,1323,765,9453,445,651,1328,454,1053,2186,1974,1002,92,849
+2004,749,2911,270,3796,255,909,153,725,266,1444,819,9384,439,643,1323,536,1012,2271,1896,1060,91,926
+2005,785,2878,284,3512,269,952,179,696,275,1422,834,9307,445,648,1289,459,1051,2264,1791,1010,112,895
+2006,753,2752,281,3536,289,868,207,725,264,1399,881,9176,467,631,1383,449,1032,2272,1731,906,113,885
+2007,765,2768,295,3461,256,908,148,721,249,1385,893,9349,458,689,1279,458,958,2313,1831,876,112,981
+2008,739,2687,250,3412,292,893,181,717,238,1412,917,9230,459,632,1300,453,993,2423,1737,903,103,960
+2009,819,2718,255,3371,241,888,190,744,265,1419,959,9005,467,656,1267,472,947,2443,1745,866,122,961
+2010,808,2734,253,3316,273,891,184,710,257,1352,989,9112,475,715,1290,494,950,2460,1821,825,116,1029
+2011,783,2726,279,3277,299,899,180,718,248,1454,976,9059,480,661,1287,491,969,2502,1760,828,120,968
+2012,863,2655,296,3217,287,835,182,747,235,1430,1076,9206,540,700,1254,507,963,2599,1658,877,121,994
+2013,840,2664,288,3189,314,891,171,691,274,1441,1093,9074,505,681,1204,510,994,2597,1637,873,133,986
+2014,894,2538,292,3125,286,919,196,701,251,1416,1051,8563,458,725,1263,447,918,2648,1748,901,114,1080
+2015,862,2558,248,3110,276,830,196,769,215,1450,1061,8551,393,749,1215,538,922,2559,1654,785,124,1002
+2016,926,2646,264,3021,397,890,166,647,242,1414,1111,8135,426,745,1278,550,905,2739,1779,857,129,1030
+2017,922,2479,259,3154,429,878,170,678,204,1407,1018,7821,401,728,1317,542,890,2785,1812,805,128,1001
+2018,946,2666,233,2855,449,833,167,720,212,1417,960,7732,407,679,1139,540,894,2754,1749,783,123,1024
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+Publisher:," ""Centers for Disease Control and Prevention """,,,,,,,,,,,,,,,,,,,,,
+Copyright:," ""The data contained in Data Planet(tm): A SAGE Publishing Resource is made available via license agreement with subscribing organizations. Your organization's license may vary from this version.""",,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,205 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2014-05-21 17:51+China Standard Time\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: STATS_CANCORR.py:134
+msgid "String variables are not allowed in this procedure"
+msgstr ""
+
+#: STATS_CANCORR.py:137
+msgid "The two sets of variables have variables in common: %s"
+msgstr ""
+
+#: STATS_CANCORR.py:139
+msgid "A root name for output variables is required if computing scores or saving syntax"
+msgstr ""
+
+#: STATS_CANCORR.py:141
+msgid "A name for the centered dataset is required if scoring or creating scoring syntax"
+msgstr ""
+
+#: STATS_CANCORR.py:178
+msgid "A scoring variable name appears in the list of input variables"
+msgstr ""
+
+#: STATS_CANCORR.py:195
+msgid ""
+"* Calculate canonical scores based on canonical correlations.\n"
+msgstr ""
+
+#: STATS_CANCORR.py:403
+msgid "The requested canonical correlations could not be computed due to singularity or missing data."
+msgstr ""
+
+#: STATS_CANCORR.py:418
+msgid "Centered Dataset"
+msgstr ""
+
+#: STATS_CANCORR.py:418
+msgid "Set 1 Variables"
+msgstr ""
+
+#: STATS_CANCORR.py:418
+msgid "Set 2 Variables"
+msgstr ""
+
+#: STATS_CANCORR.py:419
+msgid "Correlations Used for Scoring"
+msgstr ""
+
+#: STATS_CANCORR.py:419
+msgid "Scoring Syntax"
+msgstr ""
+
+#: STATS_CANCORR.py:421 STATS_CANCORR.py:422
+msgid "None"
+msgstr ""
+
+#: STATS_CANCORR.py:424
+msgid "Canonical Correlations Settings"
+msgstr ""
+
+#: STATS_CANCORR.py:425
+msgid "Values"
+msgstr ""
+
+#: STATS_CANCORR.py:428
+msgid "Canonical Correlations"
+msgstr ""
+
+#: STATS_CANCORR.py:429
+msgid "H0 for Wilks test is that the correlations in the current and following rows are zero"
+msgstr ""
+
+#: STATS_CANCORR.py:441
+msgid "Correlation"
+msgstr ""
+
+#: STATS_CANCORR.py:441
+msgid "Eigenvalue"
+msgstr ""
+
+#: STATS_CANCORR.py:442
+msgid "Denom D.F."
+msgstr ""
+
+#: STATS_CANCORR.py:442
+msgid "F"
+msgstr ""
+
+#: STATS_CANCORR.py:442
+msgid "Num D.F"
+msgstr ""
+
+#: STATS_CANCORR.py:442
+msgid "Wilks Statistic"
+msgstr ""
+
+#: STATS_CANCORR.py:443
+msgid "Sig."
+msgstr ""
+
+#: STATS_CANCORR.py:447
+msgid "Set 1 Standardized Canonical Correlation Coefficients"
+msgstr ""
+
+#: STATS_CANCORR.py:448 STATS_CANCORR.py:454 STATS_CANCORR.py:460
+#: STATS_CANCORR.py:465 STATS_CANCORR.py:472 STATS_CANCORR.py:478
+#: STATS_CANCORR.py:485 STATS_CANCORR.py:491
+msgid "Variable"
+msgstr ""
+
+#: STATS_CANCORR.py:453
+msgid "Set 2 Standardized Canonical Correlation Coefficients"
+msgstr ""
+
+#: STATS_CANCORR.py:459
+msgid "Set 1 Unstandardized Canonical Correlation Coefficients"
+msgstr ""
+
+#: STATS_CANCORR.py:464
+msgid "Set 2 Unstandardized Canonical Correlation Coefficients"
+msgstr ""
+
+#: STATS_CANCORR.py:470
+msgid "Set 1 Canonical Loadings"
+msgstr ""
+
+#: STATS_CANCORR.py:476
+msgid "Set 2 Canonical Loadings"
+msgstr ""
+
+#: STATS_CANCORR.py:483
+msgid "Set 1 Cross Loadings"
+msgstr ""
+
+#: STATS_CANCORR.py:489
+msgid "Set 2 Cross Loadings"
+msgstr ""
+
+#: STATS_CANCORR.py:496
+msgid "Proportion of Variance Explained"
+msgstr ""
+
+#: STATS_CANCORR.py:498
+msgid "Canonical Variable"
+msgstr ""
+
+#: STATS_CANCORR.py:500
+msgid "Set 1 by Self"
+msgstr ""
+
+#: STATS_CANCORR.py:500
+msgid "Set 1 by Set 2"
+msgstr ""
+
+#: STATS_CANCORR.py:501
+msgid "Set 2 by Self"
+msgstr ""
+
+#: STATS_CANCORR.py:501
+msgid "Set 2 by Set 1"
+msgstr ""
+
+#: STATS_CANCORR.py:546
+msgid "The specified root name is too long: %s"
+msgstr ""
+
+#: STATS_CANCORR.py:582
+msgid "---"
+msgstr ""
+
+#: STATS_CANCORR.py:634
+msgid "Create dummy variables"
+msgstr ""
+
+
+
