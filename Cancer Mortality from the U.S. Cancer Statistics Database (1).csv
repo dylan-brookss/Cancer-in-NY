@@ -1,0 +1,34 @@
+"Title:","Cancer Mortality from the U.S. Cancer Statistics Database"
+"SubTitle:","State - Indicator: Deaths"
+"Time:","1999 - 2018"
+"Unit of Measure:","#","#","#","#","#","#"
+"Citation:","National Program of Cancer Registries (NPCR), The National Cancer Institute, and National Center for Health Statistics (NCHS), Centers for Disease Control and Prevention  (2022-01-20). U.S. Cancer Statistics: Cancer Mortality | California, New York | Breast | Colon and Rectum | Lung and Bronchus | Deaths, 1999 - 2018. Data Planet? Statistical Datasets: A SAGE Publishing Resource. (Dataset). Dataset-ID:  005-065-002 doi:https://doi.org/10.6068/DP18466FBF9DF93"
+"ColumnCount:",7
+"RowCount:",20
+
+"Time","California, Breast, Deaths","California, Colon and Rectum, Deaths","California, Lung and Bronchus, Deaths","New York, Breast, Deaths","New York, Colon and Rectum, Deaths","New York, Lung and Bronchus, Deaths"
+"1999",4086,5133,13740,3168,4296,9550
+"2000",4283,5199,13690,3131,4257,9564
+"2001",4235,5254,13992,3168,4102,9517
+"2002",4174,5224,13789,3022,4090,9615
+"2003",4218,5317,13640,3041,3955,9453
+"2004",4230,5120,13399,2911,3796,9384
+"2005",4196,5156,13345,2878,3512,9307
+"2006",4214,5133,13199,2752,3536,9176
+"2007",4252,5068,13165,2768,3461,9349
+"2008",4231,5118,13067,2687,3412,9230
+"2009",4439,5160,13119,2718,3371,9005
+"2010",4265,5165,12960,2734,3316,9112
+"2011",4297,5283,12742,2726,3277,9059
+"2012",4508,5199,12501,2655,3217,9206
+"2013",4418,5179,12464,2664,3189,9074
+"2014",4484,5223,12284,2538,3125,8563
+"2015",4515,5445,12381,2558,3110,8551
+"2016",4351,5211,11739,2646,3021,8135
+"2017",4625,5288,11555,2479,3154,7821
+"2018",4608,5387,11078,2666,2855,7732
+
+
+
+"Publisher:", "Centers for Disease Control and Prevention "
+"Copyright:", "The data contained in Data Planet(tm): A SAGE Publishing Resource is made available via license agreement with subscribing organizations. Your organization's license may vary from this version."
